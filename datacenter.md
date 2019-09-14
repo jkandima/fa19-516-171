@@ -8,6 +8,7 @@ annualized Power Usage Effectiveness (PUE) of 1.28 . These data points (referenc
 Center Carbon Footprint Calculator, Yearly Cost, Yearly CO2 and Yearly Equivalent CO2 in cars could be computed.
 Data Center	Location	Year	Electricity Cost*	IT Load	Yearly Cost	Yearly CO2 Footprint	CO2 Equivalent in Cars
 Switch SuperNA	Lasvegas,Nevada	2000	0.04 $/kWh	587194 M WattsH	23.4MN	275092	60861
+
 https://www.switch.com/sustainability/
 
 Schnider Electric Data Center Carbon Footprint Calculator
